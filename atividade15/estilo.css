@@ -1,0 +1,25 @@
+.caixa {
+  background-color: yellowgreen;
+  width: 300px;
+  padding: 25px;
+  margin: 0 auto;
+
+  border-left: 5px solid red;
+  border-top: 5px solid red;
+}
+
+
+/*
+1. Cor de fundo: yellowgreen ----
+2. Largura: 300px 
+3. Enchimento nos 4 lados: 25px
+
+4. Espessura da borda esquerda: 5px
+5. Estilo da borda esquerda: solid
+6. Cor da borda esquerda: red
+
+7. Espessura da borda superior: 5px
+8. Estilo da borda superior: solid
+9. Cor da borda superior: red
+
+10. Faça com que o elemento fique centralizado horizontalmente em tela*/
